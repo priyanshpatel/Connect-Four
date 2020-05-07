@@ -1,0 +1,16 @@
+.board button{
+  height: 75px;
+  width: 75px;
+  background-color: gray;
+  border-radius: 50px;
+  border: 2px solid black;
+}
+td{
+  height: 80px;
+  width: 80px;
+}
+.overlay{
+  display: none;
+  height: 50px;
+  width: 120px;
+}
